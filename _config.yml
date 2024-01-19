@@ -92,11 +92,28 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
+  
+  # retrieved necessary values via the below graphql query command:
+# gh api graphql -f query='
+# {
+#   # https://github.com/github/docs
+
+#   repository(owner: "danarcheronline", name: "danarcheronline.github.io") {
+#     id # RepositoryID
+#     name
+#     discussionCategories(first: 10) {
+#       nodes {
+#         id # CategoryID
+#         name
+#       }
+#     }
+#   }
+# }'
   giscus:
     repo: danarcheronline/danarcheronline.github.io # <gh-username>/<repo>
-    repo_id: 743840061
-    category: "Comments"
-    category_id: 
+    repo_id: R_kgDOLFYZPQ
+    category: Comments
+    category_id: DIC_kwDOLFYZPc4CceX5
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
