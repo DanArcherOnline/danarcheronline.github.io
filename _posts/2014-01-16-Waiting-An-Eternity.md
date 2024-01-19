@@ -1,15 +1,15 @@
 ---
 title: "Waiting An Eternity"
-date: 2014-01-16 00:00:00 +0800
+date: 2023-07-16 00:00:00 +0800
 categories: [Walkthrough, AmateursCTF]
 tags: [AmateursCTF2023]
 ---
 
-## Challenge Details
+## Details
 - Platform: [AmateursCTF](/categories/amateursctf/)
 - Event: [AmateursCTF 2023](/tags/amateursctf2023/)
 
-## Challenge Setting
+## Setting
 The setting for the challenge is:
 > My friend sent me this website and said that if I wait long enough, I could get and flag! Not that I need a flag or anything, but I've been waiting a couple days and it's still asking me to wait. I'm getting a little impatient, could you help me get the flag?
 
