@@ -10,13 +10,13 @@ order: 4
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=@DanArcherOnline&fontSize=50&fontColor=00F78D&desc=SECURITY%20ENGINEER&&fontAlignY=40&descAlignY=55&animation=fadeIn)
 <!--https://github.com/kyechan99/capsule-render-->
-### Hey! Thanks for popping by <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hey! Thanks for popping by <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving hand"> 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=200&color=00F78D&vCenter=true&multiline=true&width=500&height=200&lines=%24+.%2Fgreet-bot.sh;%24+Welcome+To+My+World+Of+Code!+%F0%9F%99%8C%F0%9F%8F%BB;%24+You+can+find+me+around+the+interwebs+as;%24+DanArcherOnline;%24+Thanks+for+checking+my+profile+out+%F0%9F%99%8F%F0%9F%8F%BB;%24;%24+clear)](https://git.io/typing-svg)
 <!--https://readme-typing-svg.demolab.com/demo/-->
 
-## About Me <img src="https://64.media.tumblr.com/2b7c304da5befc9f3175a567e050f543/90b3618720570f23-64/s250x400/66f30c82f3b43b457f8f0e298585862894bf9535.gifv" width="60px">
+## About Me <img src="https://64.media.tumblr.com/2b7c304da5befc9f3175a567e050f543/90b3618720570f23-64/s250x400/66f30c82f3b43b457f8f0e298585862894bf9535.gifv" width="60px" alt="cat playing with butterfly">
 
 ```javascript
 const dan = {
@@ -38,7 +38,7 @@ const dan = {
 }
 ```
 
-### Some Tech I Touched <img src="https://github.com/images/mona-whisper.gif" width="40px">
+### Some Tech I Touched <img src="https://github.com/images/mona-whisper.gif" width="40px" alt="pixel git octopussy">
 <!--https://marwin1991.github.io/profile-technology-icons/-->
 <div align="center">
 	<code><img width="22" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
@@ -88,7 +88,7 @@ const dan = {
 	<code><img width="22" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
-### Some Stuff I Studied <img src="https://64.media.tumblr.com/tumblr_macxenoiWY1rfjowdo1_500.gifv" width="30px"/>
+### Some Stuff I Studied <img src="https://64.media.tumblr.com/tumblr_macxenoiWY1rfjowdo1_500.gifv" width="30px" alt="ang from avatar"/>
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64775f0fc4ec366ad5b4d6d3?variant=dark)](https://roadmap.sh)
 
