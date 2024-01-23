@@ -6,8 +6,8 @@ tags: [Hack The Boo 2022]
 ---
 
 ## Details
-- Platform: [AmateursCTF](/categories/hack-the-box/)
-- Event: [AmateursCTF 2023](/tags/hack-the-boo-2022/)
+- Platform: [Hack The Box](/categories/hack-the-box/)
+- Event: [Hack The Boo 2022](/tags/hack-the-boo-2022/)
 
 ## Setting
 >  A powerful demon has sent one of his ghost generals into our world to ruin the fun of Halloween. The ghost can only be defeated by luck. Are you lucky enough to draw the right cards to defeat him and save this Halloween?
