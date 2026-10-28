@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Dan Archer</title>
+      <link>https://danarcheronline.github.io</link>
+      <description>Last 10 notes on Dan Archer</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Mind, Body... Agent?</title>
+    <link>https://danarcheronline.github.io/posts/mind-body-agent</link>
+    <guid>https://danarcheronline.github.io/posts/mind-body-agent</guid>
+    <description><![CDATA[ An agent is the model plus everything around it. What a harness is, using a coding agent as the example, and why it's where I look first when things break. ]]></description>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Posts</title>
+    <link>https://danarcheronline.github.io/posts/</link>
+    <guid>https://danarcheronline.github.io/posts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 10 Oct 2026 06:42:18 GMT</pubDate>
+  </item><item>
+    <title>Dan Archer</title>
+    <link>https://danarcheronline.github.io/</link>
+    <guid>https://danarcheronline.github.io/</guid>
+    <description><![CDATA[ Dan Archer’s digital garden: notes on AI-assisted software development, agentic and harness engineering. This garden is just getting started. ]]></description>
+    <pubDate>Fri, 09 Oct 2026 21:16:29 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
